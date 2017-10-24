@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE QtCreatorProject>
+<!-- Written by QtCreator 4.1.0, 2016-11-14T18:05:56. -->
+<qtcreator>
+ <data>
+  <variable>EnvironmentId</variable>
+  <value type="QByteArray">{e36acdd5-bade-4ed4-a776-ae079a355b4b}</value>
+ </data>
+ <data>
+  <variable>ProjectExplorer.Project.ActiveTarget</variable>
+  <value type="int">0</value>
+ </data>
+ <data>
+  <variable>ProjectExplorer.Project.EditorSettings</variable>
+  <valuemap type="QVariantMap">
+   <value type="bool" key="EditorConfiguration.AutoIndent">true</value>
+   <value type="bool" key="EditorConfiguration.AutoSpacesForTabs">false</value>
+   <value type="bool" key="EditorConfiguration.CamelCaseNavigation">true</value>
+   <valuemap type="QVariantMap" key="EditorConfiguration.CodeStyle.0">
+    <value type="QString" key="language">Cpp</value>
+    <valuemap type="QVariantMap" key="value">
+     <value type="QByteArray" key="CurrentPreferences">CppGlobal</value>
+    </valuemap>
+   </valuemap>
+   <valuemap type="QVariantMap" key="EditorConfiguration.CodeStyle.1">
+    <value type="QString" key="language">QmlJS</value>
+    <valuemap type="QVariantMap" key="value">
+     <value type="QByteArray" key="CurrentPreferences">QmlJSGlobal</value>
+    </valuemap>
+   </valuemap>
+   <value type="int" key="EditorConfiguration.CodeStyle.Count">2</value>
+   <value type="QByteArray" key="EditorConfiguration.Codec">UTF-8</value>
+   <value type="bool" key="EditorConfiguration.ConstrainTooltips">false</value>
+   <value type="int" key="EditorConfiguration.IndentSize">4</value>
+   <value type="bool" key="EditorConfiguration.KeyboardTooltips">false</value>
+   <value type="int" key="EditorConfiguration.MarginColumn">80</value>
+   <value type="bool" key="EditorConfiguration.MouseHiding">true</value>
+   <value type="bool" key="EditorConfiguration.MouseNavigation">true</value>
+   <value type="int" key="EditorConfiguration.PaddingMode">1</value>
+   <value type="bool" key="EditorConfiguration.ScrollWheelZooming">true</value>
+   <value type="bool" key="EditorConfiguration.ShowMargin">false</value>
+   <value type="int" key="EditorConfiguration.SmartBackspaceBehavior">0</value>
+   <value type="bool" key="EditorConfiguration.SmartSelectionChanging">true</value>
+   <value type="bool" key="EditorConfiguration.SpacesForTabs">true</value>
+   <value type="int" key="EditorConfiguration.TabKeyBehavior">0</value>
+   <value type="int" key="EditorConfiguration.TabSize">8</value>
+   <value type="bool" key="EditorConfiguration.UseGlobal">true</value>
+   <value type="int" key="EditorConfiguration.Utf8BomBehavior">1</value>
+   <value type="bool" key="EditorConfiguration.addFinalNewLine">true</value>
+   <value type="bool" key="EditorConfiguration.cleanIndentation">true</value>
+   <value type="bool" key="EditorConfiguration.cleanWhitespace">true</value>
+   <value type="bool" key="EditorConfiguration.inEntireDocument">false</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>ProjectExplorer.Project.PluginSettings</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+ <data>
+  <variable>ProjectExplorer.Project.Target.0</variable>
+  <valuemap type="QVariantMap">
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Desktop Qt 5.6.1 MinGW 32bit2</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Desktop Qt 5.6.1 MinGW 32bit2</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">qt.56.win32_mingw49_kit</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveBuildConfiguration">0</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveDeployConfiguration">0</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveRunConfiguration">0</value>
+   <valuemap type="QVariantMap" key="ProjectExplorer.Target.BuildConfiguration.0">
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">C:/Users/Emilie/Desktop/BTS IG/C++/Projet Chat/build-Client-Desktop_Qt_5_6_1_MinGW_32bit2-Debug</value>
+    <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
+     <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
+      <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">qmake</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">QtProjectManager.QMakeBuildStep</value>
+      <value type="bool" key="QtProjectManager.QMakeBuildStep.LinkQmlDebuggingLibrary">true</value>
+      <value type="QString" key="QtProjectManager.QMakeBuildStep.QMakeArguments"></value>
+      <value type="bool" key="QtProjectManager.QMakeBuildStep.QMakeForced">false</value>
+      <value type="bool" key="QtProjectManager.QMakeBuildStep.SeparateDebugInfo">false</value>
+      <value type="bool" key="QtProjectManager.QMakeBuildStep.UseQtQuickCompiler">false</value>
+     </valuemap>
+     <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.1">
+      <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Make</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.MakeStep</value>
+      <valuelist type="QVariantList" key="Qt4ProjectManager.MakeStep.AutomaticallyAddedMakeArguments"/>
+      <value type="bool" key="Qt4ProjectManager.MakeStep.Clean">false</value>
+      <value type="QString" key="Qt4ProjectManager.MakeStep.MakeArguments"></value>
+      <value type="QString" key="Qt4ProjectManager.MakeStep.MakeCommand"></value>
+     </valuemap>
+     <value type="int" key="ProjectExplorer.BuildStepList.StepsCount">2</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Compiler</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ProjectExplorer.BuildSteps.Build</value>
+    </valuemap>
+    <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.1">
+     <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
+      <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Make</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.MakeStep</value>
+      <valuelist type="QVariantList" key="Qt4ProjectManager.MakeStep.AutomaticallyAddedMakeArguments"/>
+      <value type="bool" key="Qt4ProjectManager.MakeStep.Clean">true</value>
+      <value type="QString" key="Qt4ProjectManager.MakeStep.MakeArguments">clean</value>
+      <value type="QString" key="Qt4ProjectManager.MakeStep.MakeCommand"></value>
+     </valuemap>
+     <value type="int" key="ProjectExplorer.BuildStepList.StepsCount">1</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Nettoyer</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ProjectExplorer.BuildSteps.Clean</value>
+    </valuemap>
+    <value type="int" key="ProjectExplorer.BuildConfiguration.BuildStepListCount">2</value>
+    <value type="bool" key="ProjectExplorer.BuildConfiguration.ClearSystemEnvironment">false</value>
+    <valuelist type="QVariantList" key="ProjectExplorer.BuildConfiguration.UserEnvironmentChanges"/>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Debug</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4BuildConfiguration</value>
+    <value type="int" key="Qt4ProjectManager.Qt4BuildConfiguration.BuildConfiguration">2</value>
+    <value type="bool" key="Qt4ProjectManager.Qt4BuildConfiguration.UseShadowBuild">true</value>
+   </valuemap>
+   <valuemap type="QVariantMap" key="ProjectExplorer.Target.BuildConfiguration.1">
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">C:/Users/Emilie/Desktop/BTS IG/C++/Projet Chat/build-Client-Desktop_Qt_5_6_1_MinGW_32bit2-Release</value>
+    <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
+     <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
+      <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">qmake</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">QtProjectManager.QMakeBuildStep</value>
+      <value type="bool" key="QtProjectManager.QMakeBuildStep.LinkQmlDebuggingLibrary">false</value>
+      <value type="QString" key="QtProjectManager.QMakeBuildStep.QMakeArguments"></value>
+      <value type="bool" key="QtProjectManager.QMakeBuildStep.QMakeForced">false</value>
+      <value type="bool" key="QtProjectManager.QMakeBuildStep.SeparateDebugInfo">false</value>
+      <value type="bool" key="QtProjectManager.QMakeBuildStep.UseQtQuickCompiler">false</value>
+     </valuemap>
+     <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.1">
+      <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Make</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.MakeStep</value>
+      <valuelist type="QVariantList" key="Qt4ProjectManager.MakeStep.AutomaticallyAddedMakeArguments"/>
+      <value type="bool" key="Qt4ProjectManager.MakeStep.Clean">false</value>
+      <value type="QString" key="Qt4ProjectManager.MakeStep.MakeArguments"></value>
+      <value type="QString" key="Qt4ProjectManager.MakeStep.MakeCommand"></value>
+     </valuemap>
+     <value type="int" key="ProjectExplorer.BuildStepList.StepsCount">2</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Compiler</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ProjectExplorer.BuildSteps.Build</value>
+    </valuemap>
+    <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.1">
+     <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
+      <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Make</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.MakeStep</value>
+      <valuelist type="QVariantList" key="Qt4ProjectManager.MakeStep.AutomaticallyAddedMakeArguments"/>
+      <value type="bool" key="Qt4ProjectManager.MakeStep.Clean">true</value>
+      <value type="QString" key="Qt4ProjectManager.MakeStep.MakeArguments">clean</value>
+      <value type="QString" key="Qt4ProjectManager.MakeStep.MakeCommand"></value>
+     </valuemap>
+     <value type="int" key="ProjectExplorer.BuildStepList.StepsCount">1</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Nettoyer</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ProjectExplorer.BuildSteps.Clean</value>
+    </valuemap>
+    <value type="int" key="ProjectExplorer.BuildConfiguration.BuildStepListCount">2</value>
+    <value type="bool" key="ProjectExplorer.BuildConfiguration.ClearSystemEnvironment">false</value>
+    <valuelist type="QVariantList" key="ProjectExplorer.BuildConfiguration.UserEnvironmentChanges"/>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Release</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4BuildConfiguration</value>
+    <value type="int" key="Qt4ProjectManager.Qt4BuildConfiguration.BuildConfiguration">0</value>
+    <value type="bool" key="Qt4ProjectManager.Qt4BuildConfiguration.UseShadowBuild">true</value>
+   </valuemap>
+   <valuemap type="QVariantMap" key="ProjectExplorer.Target.BuildConfiguration.2">
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">C:/Users/Emilie/Desktop/BTS IG/C++/Projet Chat/build-Client-Desktop_Qt_5_6_1_MinGW_32bit2-Profile</value>
+    <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
+     <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
+      <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">qmake</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">QtProjectManager.QMakeBuildStep</value>
+      <value type="bool" key="QtProjectManager.QMakeBuildStep.LinkQmlDebuggingLibrary">true</value>
+      <value type="QString" key="QtProjectManager.QMakeBuildStep.QMakeArguments"></value>
+      <value type="bool" key="QtProjectManager.QMakeBuildStep.QMakeForced">false</value>
+      <value type="bool" key="QtProjectManager.QMakeBuildStep.SeparateDebugInfo">true</value>
+      <value type="bool" key="QtProjectManager.QMakeBuildStep.UseQtQuickCompiler">false</value>
+     </valuemap>
+     <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.1">
+      <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Make</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.MakeStep</value>
+      <valuelist type="QVariantList" key="Qt4ProjectManager.MakeStep.AutomaticallyAddedMakeArguments"/>
+      <value type="bool" key="Qt4ProjectManager.MakeStep.Clean">false</value>
+      <value type="QString" key="Qt4ProjectManager.MakeStep.MakeArguments"></value>
+      <value type="QString" key="Qt4ProjectManager.MakeStep.MakeCommand"></value>
+     </valuemap>
+     <value type="int" key="ProjectExplorer.BuildStepList.StepsCount">2</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Compiler</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ProjectExplorer.BuildSteps.Build</value>
+    </valuemap>
+    <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.1">
+     <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
+      <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Make</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.‡µ   ;;Dv  P3	`H ( ø=;		|°
+|Û>;"Ÿ	>@	~Õ?H; 
+~Ê	>LA;¡	 Ş
+ wB;¢	PA
+_FC;£	€‚Ñ
+ŸID;¤	‚ __E;¥‰ĞOŠ?œF;¦	‰à\ŠÕG;§‰`æŠI;¨‰‹M;D©‰Àñ‰ N;ª‰p¥Š/ ìO;«‰€	0:Š‘Q;¬‰ÒŠYR;D­É`+É!iS;®É ¢Aˆ‚ Å‰cU;¯ÉT0@ÊişÀ°É@AË•V;±ÉàAË!W;²ÉUË¶À³ÉÀËCPX;´É ËÍÀµÉ Ë[Y;T¶Ê£Ê?ÜÀ·ÉËcZ;¸É°±ÉW¦[;$¹É`¯ÊU\¨;ºÊ©ÊıÀ»É@¦Ê´];¼ÉËâ^;¾é ë™_;$¿ép¬ê0`H;Àé0²êÅ%àÁé@¤êVaH;Âé «êb;Ãé  ê*ÁàÄê¡êXc¨;Åé°ëçà
+Æé0ë+œd;
+Çê§ê1e;RÈé¨êËàÉ	é`°ê\f;ªÊéPë'âàËéà­êog;Ì	é@ªêh;VÍêë'ŠàÎéPAë31i;Ïé Uë¾àĞéğë'hPj;Ñé@ëùàÒé ë#Šk;$ÓéĞ®êl¨;Ôépëgœà
+Õé ëC m;ªÖé@ë³à×é ¢êBn;ØUéĞëKÕàÙé@‚¥êfo;Úéj°ë7ôàÛêë†Pp;ÜéàëPq;İépëkªğŞù û7r;TßùûÆğàù ûXs;áUùàûçğâù Aû“t;ãù`Aû u;äù0Uû7±ğåùĞû@Pv;æù ûÌğçúüw;èUùûUìğéùÀ‚£úrx;êù‚pû! y;ëùªğû	‘ğìùPûA z;íù°û¨ğîúûI{;Tïùpû7Úğğù0ûf|;ñùPûS };òUù ûğóù AûI~;ôùğUû”ğõùàûP;öùû¦ğ÷úûN€;ªøùàûqŞğùúAû+`;úù€Áû‚;ûúû*ºğıù@ûgƒ(;şùğû'Ú°;w‰4 Pû ‹”;ùğû œ;ù`û% Ğ;ùûG h;ù@û*ûğù0ûkŸ(;ù`û ¨;	ùğû1íğ
+
+ù ûU¡;
+ùÀû%S¢;ªù`û+îğù‚€û;™£;ù‚pû(¤;ùªğûÔğù û c¥;ùû*öğù€ûŒ¦(;ùpûy§(;ùPû?q¨(;ùÀû©X;úû½ğùàûaª;ùû	«;UùĞû¿ğùàAû®¬;ù`Aûf­;ù€Aû#®;ùpUûoÊğùàû=µP¯;ùPû1ZP°; ù°û@P±;!ùÀğ-µ    H @ € $²;"w X±¡P|â |#	| ®
+|“³;$
+>¬
+>[´;¤%	>£
+>ú &	 ¨
+µ;'	__¶;$(	@²
+?·H;)	 ¢
+2P¸;*‰€‹Ö€+Š‹¹;
+,‰Ğ‹o$º;R-‰à«Š?à€.Š°Š¬»;/	‰À±Š’¼;0‰©ŠG½;$2‰P¦ŠO¾H;3ÉªÊ ¿;4É0¯Ê*ÉÀ5É Ë_gÀ(;6ÉÀËÁ¨;7É`ËW¦À
+8É°Ë[Â;ª9É ËOõÀ:É‚ĞËO¦Ã;;ÉÀ¥Ê7xÄ;<	É`­Ê<Å;
+=É ËO Æ;ª>É Ë‡¯À?ÊAË'QÇ;@ÉpAË¯0È;AÉ€ª Ê'ÓÀBÉPËO vÉ;Cé ëC`:Ê;Dêë+êàEéÀë’Ë;Fé ë{BÌ;Gé`ë5Í;¬Hêë'×àIé‚0ë{Î;Jé‚ğëÏ;KéTĞ¤ê'ÈàLéAëS€Ğ;MépAë?cÑ;Né@Aë;
+Ò;Oé°Uë+°àPéĞë'UPÓ;Qé ë£+°Ô;RêëWíà
+SéÀë‘Õ;
+Té€ëHÖ;
+Uéğë#×;
+Vé°ë+7Ø;ªWéë'İàXé‚Pë?€Ù;Yé‚€ëÚ;ZéªğëcÚà[éë vÛ;\éPëo 6Ü;]é ë;*ûà^é0ë#àİ;_êëÃ‚Ş;`êë“(ß;ªaéÀë¿ÈàbêAë;rà;cù`Aûá;dù@ª§ú1µğeùPû	 mâ;fù€û 5ã;gùàû! (ä;hùû •å;iùûe eæ;jùÀû+ *ç;kù û!*Ñğlù€û	“è;múûCê;Toùûèğpùûë;qùpû;Cì;rUù ûèğtùĞAûşí;uùàAûQ î;vùAûŒï;wùpAûrğ;yù AûÑñ;{ùÁû=§ò;|úû Tó;}ùĞû ô;~ù`û!³ğúû%mõ;€ùğûaö;úû&÷;ª‚ù€ûÌğƒù‚ğû†ø;„ù$ d’ºú8a   Í_<ˆğ6Uğ 1hA  õÊb=–ğğ`ñ Ö‘¿ö¿yd>\ŞğBA °û‰Pl>ßùÀûíPv>àùĞûÄP>âùàûfP>ãùğû±™>äù ×ú Î¥>æùû ğ±>çù û n¼>èù0û äÆ>éù@û ıÑ>ëùPû ÖÜ>íù`û Úæ>îùpû Éğ>ïù€û û>ğùû 1?òù û ?øù°û h?ûùÀû ±)?üùĞû 5?ıùàû 3A?ÿùğûÀ“L? xÖ)€ ‚ØúX?ù‚û#d?ù‚ ûµp?ù‚0û~?ù‚@ûJŠ?ù‚PûC”?ù‚`û œ?	ù‚pû¦?ù‚€ûĞ­?ù‚û(¹?ù ğf·    H @ € Ã?x X°ØÈ|éÊ?	|À|ÜÔ?	>Ğ>ÙŞ?	>à>Ïê?	ğšó?$	 Ù
+Ÿ{û(?	Ô(@	 ø
+(@‰0‹h(@‰@‹?(@‰P‹)(@ ‰`‹µ2(@!‰p‹9(@"‰€‹5@(@#‰‹]G(@&‰ ‹pM(@*É°ËçU(@+ÉÀËá[(@,ÉĞË‘bH@-É lBšú8 ^FBRMÀ÷ÀÀ  @ÆŸ4oBQÉğŸÊ‡ßB$YÉ £Ê‡‚3ˆCgÉÀŠÉ Ì:CkÉ èAÊäAClÉ€^É¬LCpÉĞË÷[CsÉÀËjCt	Éğ]ÊFwCuÉ Ê/C$vÊ+É'Ş‰(CzÊ­Ê_–(C{éPëÄ£HC|é éê#´P¯C}éàëëP¼Cé°ënPÄCé ëŠÌCƒéà¬ê “ÓC„éë “ÜC…épë ßC†é`ë èC‡éë' øéCˆéğë gëC‰ép\ƒÁ3æ[ŞõCŠéÀê;ƒûCéĞë²Déğë#¹DéëpDƒêë;	D‘é‚ ës[D“é‚àë”'D™édÀ4â2¬À  UĞODàY¡záAìÃlD¦à—àá ëÛ|D\§à C àë/wp…D¨éé -éÁD¬àïÀâÃD†ÀL€   \ÙE®à¾FÀ^!_`!åÅòE´¯àšá—á ‚ ‚ å´ôE°àV=Áa €  æmĞöE±àÁBÂwãX  øE4²àõáà1! áÀ `dHÈF³à.Jàáp  æ[F$´à4ä°	AêDdFµğ»ô ÷ôeF´¶ğ(±1 @âWAöcgF·ğõÀøP  §hhF¸ğâQ1`‘ ö†F¹ÙğĞ`ñ @‰  Aõ‡Fºğ3±1 ÀĞ÷	şˆ¨F»ğ	õğû eŠF¼ğõ øğ	œ‹F½MğØQ1úêĞF¾ğÒañğúJF¿-ğ±1 0û¬‘XFÀğö	°ø@€  Ò’FÁğ&ÉQñ  òĞ¯a  ŸáHå-ğañ)8C*|®ğğNdX‹z°  Shğ ñxøA0ÍeXŒğã+à£)0‘  ò@  óg3{ Ì 9a¡@<÷ğ #’g4ğŸ«`ñ`ûôğ5ğ
+8õ{€ûÀ“gj6ğåõ ø €”g7ğ‡ô°ø 
+N•g8)ğ8ôàû,–(g9ğøõ€!a€   e ğ“Ğšm:ğä±ñø m;-ğ4QWñA   Öñğİòm=™ğĞR`1
+òZ´À ğHôm>>ğBA ù0Êú¨m?ğ,° £¢h?ğğ	ï"ntAùBó=òğwP$nBù  òğ?w)nCù pòõ•*n´Dğa9ñn ƒôğ)-nEúâóğ	–1nFùpø	ğµ2nGù0ò	ğ  3nHù€øĞ  ÜğIùDò  sOnJúø XnKúøğ{[nLúâƒó 1ñfnMúóQõ$nndNù`¶õÓ²°šnOùô4ô`\ñnPùã rÎpV°Û,orQù(GòğiP.oRùhûP0oSù¨ûªP1oTùèû/3oUù(Hú Ö4oVùhû ¢6oWù¨û p8oXùèû =:oYù(IAú<oZùhƒøğ#Ï=o[ù¤óUòğ1|Lo\ùæ5úÈOo$]ùöF÷2 @ ÏYo^ù1÷~  ±±o<_ùqDõ´Èo`ù­€?÷÷`qÜoaùÒ  ”ô!Máobù†ó/òğ!mâocùÆûEäodù  Ü¶    ”Î     Tæoef{ €ÖH|€€  óêof	|‚|  .îHog	>Æ>x¨  ù >h	><ƒ _’ñoi	‚¦Xõoj		 ²¿  `Ğpk	B¿ 
+  Ipl	@‚€?
+p4m‰<ˆ€UD(pn‰Äˆr À ;po‰€‰‚/€OÎpp‰>ˆŸ@  ?<(pq‰6‹?÷=hpr‰†ƒ?‚Ï €  Ó^ps‰44r€oùÈhpt‰”ƒÅ@ĞÌpuÉ„ …€AÅÏpvÉ²4ÂÀ/»Ñp2wÉ$0ÇÀ†ÓhpxÊ5Ç€KÖpyÉtÊ V×pzÉrÈAÀ_Úp{É¢1ÇÀGÛp|	É4ÊŠÜp}ÉDÊàp~ÉËGzãp$É´ÊÇç¨p€É„‚ ÂOAÀ‡ÂëpÉôAË?îp‚É´AË/<ñpƒÉTÃ'~1À_øôp:„É4Ã—âà&ûHp…étê8şp†éäê Dq‡é$è P  5qˆ	é¤/êiq
+‰é2ë;8	q
+Šédë8q
+‹éôë_£qŒéê q$éê?(qé”ëM(qéäëŒ"Hqé4ê}P%q‘éÄë7(q’éôê v*q“é,Aê¼,q”é„ã?h?à à?õ/q•êãGåÌ8q4–é´è+àk»T(q—é(ã<cƒÀàëdq˜é¨èz  Ìhq<™éÀÒåékhqšé„è/àg®Ğrq›é”è/àO`ÌsqœéÃ{ ĞHã™uq­éôè_àùàéÄâgp  *y¨qŸéø¡ ãP|  Mà éæDâà'|q¡éäâà7~q$¢é6Eê èq£étã+â`	j]à¤é2ã;ò8€  
+ƒq¥ù¬”+÷ğ5ğ¦ù
+ˆâ õ{„q§ù"øğÃ‰q4¨ùø- bsHq©ùà¿HƒQ ğ½’qªùã ÌñmğH˜q<«ùãóğ{ü™èq¬ùâóğs œq­ù j	P  õËªqb®ù¶!õ%P³q¯ù°ûPºq°ùĞû7¾q±ù0·ú ,Âq²ù@©ƒõ3Ëq¸ú5ûgğ¹ùô8Ïƒ`ğÑqºùhóò  Ò(q»ùÀûÓØq¼ùã- òğ# àÔq½ùRøA rLØq¾ùÔòt  {Ùq<¿ùô•òğ3FÜ(qÀùĞû	ÃŞhqÁùHøğ¡¶äqÂù0Çú åçqÃùàû`ìqÄùôR‚ÑóuíqÅùâ ò Sîq|Æù0+!òğJğğqÇùô+ò°àŠóqÈùô¡òAğGUôqÉùƒøğøqÊù&øEğ!ÉórËùvûGŒørÌùÆûúrÍù’ø™ğ¼ür
+Îù€û1ÙsÏùô¸ôás|Ğù0!òğ!ÆsÑù&PÁ÷=d,sÒùô‚Öô€1sÓùæòğ©2s4Ôù&õ#4(sÕùfûŸ5èsÖùTóòğ €<s×ùŞøAµ?sØùDƒøğ™csÙùƒô3õJfsÚùÄø pàmsÛù´ó3õánsÜù¤õÙqs4İùÄõ(uhsŞùdó?õğPwsßùäûˆPzsàùDûp}sáùô—õĞ€sâùäøğƒ “ˆsãù$øAğk‹säùÔƒøğ-†såùô¿òğgÏœsæù4øğFÈs2çùĞ8õ_tÛ˜sèùã ôô+ jtéúL  ^·    H @ € Qtê{ X1à8P|Ètë	|œ:Ò   ~’tì	>`HB~utdí
+>¹@Ctî	|A	Zuï	"+ rÎ € @ r:uğ	„1 0M  Ÿ!>Èuñ	´ ‚A€VCuò‰&‡€/s…uó	‰$/ŠÎ»uô‰tŠ-¿u$õ‰”,ŠÆHuö‰àŠ¿;ğu÷‰piƒ …Ÿqñuø‰ò4‡/@  zKHvù‰ğµŠ¿}P‰vúÉ†‚ *fÀÀ?9ôwûĞHsÀ~   4ıwüÉÀ€ ÂÀMxı=ÉÀŸÁÀ
+™xşÉ6  dVe ÀÏÀÿÉ3À€ ¦B Àpx |À… BO  ÂÀwÕ$xÉ”
+ÂÀ
+·(x4É˜È@¢f+hxÉHÃÂ'z€  /xÉ€¥AÅ/£4xÉÂÈ2  ë:hxÉ¨ÃÅIP=xÉˆÈ €  ÀAxÉÄoqÀ	ÀG#Dx´	ÉÃ_âàpIx
+êãå[ĞKxéèà# ÚQxéĞÁƒåSÊ|xé1Ã ÊÓ %à3ó‡èxé>âà3àµ‰xé`!ƒâ@ibxé8èàK’xé`.æà“xé0èà×”x4é €@ôƒ€ à++Ûxé€èP  ¹áxdéàgå#âpîxéÀ
+A êAä#şxéZ	"âà{* y
+éšè  `ĞyétãâAàG
+yéÖƒXåyé2V0¦9À<@o0(yéTèt À ¬yéÃ‚ åi±yé4À§â>ÁHà[ªû(yé€/  Aå´z éà‚­ê z!éb$Â \à àwzĞz"éÈèàcà7z#éäâAàoz$éTƒÂ_æW#z%éèàOÿ(z&é$Â³æ
+*z'édã‡å'0z(éôè;p   6z)éÔãAõsLz*ùDƒõ=Sz+ùôWàrpğ#şVz,ùäø	`   „Yz-ù´ó…òxğ!\z.ù2âm ŠqNğAc^hz/ù”óõ	†ğ_z0ùôòğ xaz1ùû dez2ù,ó
