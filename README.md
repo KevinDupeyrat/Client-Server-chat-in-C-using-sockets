@@ -15,7 +15,7 @@ clients.
 Ces messages sont en suite redistribut à tous les clients connectés au
 serveur.
 
-J'au utiliser la bibliothèque Qt pour ce projet afin de 
+J'ai utiliser la bibliothèque Qt pour ce projet afin de 
 gérer les interfaces graphiques et les sockets.
 
 Vous avez a votre dispositon le code source du serveur ainsi
